@@ -1,0 +1,338 @@
+,List Sr. No.,Set No.,2020 Set,First Name,Surname,Country,State Association,DOB,Age,Specialism,Unnamed: 10,Unnamed: 11,Test caps,"ODI
+caps","T20
+caps",IPL,Previous IPLTeam(s),"2019
+Team","2019
+IPL",C/U/A,"Reserve
+Price Rs Lakh",Surname.1
+0,1,1,BA1,Aaron,Finch,Australia,CA,1986-11-17,33,BATSMAN,RHB,LEFT ARM Slow Orthodox,5.0,119.0,58.0,75.0,"RR, DD, PWI, SRH, MI, GL, KXIP",,,Capped,100,Finch
+1,2,1,BA1,Chris,Lynn,Australia,CA,1990-04-10,29,BATSMAN,RHB,LEFT ARM Slow Orthodox,,4.0,18.0,41.0,"DCH, KKR",KKR,13.0,Capped,200,Lynn
+2,3,1,BA1,Eoin,Morgan,England,ECB,1986-09-10,33,BATSMAN,LHB,RIGHT ARM Medium,16.0,233.0,86.0,52.0,"RCB, KKR, SRH, KXIP",,,Capped,150,Morgan
+3,4,1,BA1,Cheteshwar,Pujara,India,SCA,1988-01-25,32,BATSMAN,RHB,RIGHT ARM Leg Break,75.0,5.0,,30.0,"KKR, RCB, KXIP",,,Capped,50,Pujara
+4,5,1,BA1,Jason,Roy,England,ECB,1990-07-21,29,BATSMAN,RHB,RIGHT ARM Medium,5.0,84.0,32.0,8.0,"GL, DD",,,Capped,150,Roy
+5,6,1,BA1,Robin,Uthappa,India,KCA,1985-11-11,34,BATSMAN,RHB,-,,46.0,13.0,177.0,"MI, RCB, PWI, KKR",KKR,12.0,Capped,150,Uthappa
+6,7,1,BA1,Hanuma,Vihari,India,ACA,1993-10-13,26,BATSMAN,RHB,RIGHT ARM Off Break,7.0,,,24.0,"SRH , DC",DC,2.0,Capped,50,Vihari
+7,8,2,AL1,Stuart,Binny,India,NCA,1984-06-03,35,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,6.0,14.0,3.0,95.0,"MI, RCB, RR",RR,8.0,Capped,50,Binny
+8,9,2,AL1,Pat,Cummins,Australia,CA,1993-05-08,26,ALL-ROUNDER,RHB,RIGHT ARM Fast,25.0,58.0,25.0,16.0,"KKR, DD, MI",,,Capped,200,Cummins
+9,10,2,AL1,Sam,Curran,England,ECB,1998-06-03,21,ALL-ROUNDER,LHB,LEFT ARM Medium Fast,12.0,2.0,5.0,9.0,KXIP,KXIP,9.0,Capped,100,Curran
+10,11,2,AL1,Colin,De Grandhomme,New Zealand,NZC,1986-07-22,33,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,18.0,38.0,33.0,25.0,"KKR, RCB",RCB,4.0,Capped,75,De Grandhomme
+11,12,2,AL1,Glenn,Maxwell,Australia,CA,1988-10-14,31,ALL-ROUNDER,RHB,RIGHT ARM Off Break,7.0,110.0,61.0,69.0,"MI, KXIP, DD",,,Capped,200,Maxwell
+12,13,2,AL1,Chris,Morris,South Africa,CSA,1987-04-30,32,ALL-ROUNDER,RHB,RIGHT ARM Fast,4.0,42.0,23.0,61.0,"CSK,RR,  DD,DC",DC,9.0,Capped,150,Morris
+13,14,2,AL1,Yusuf,Pathan,India,BCA,1982-11-17,37,ALL-ROUNDER,RHB,RIGHT ARM Off Break,,57.0,22.0,174.0,"RR, KKR,  SRH",SRH,10.0,Capped,100,Pathan
+14,15,2,AL1,Chris,Woakes,England,ECB,1989-03-02,31,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,31.0,99.0,8.0,18.0,"KKR, RCB",,,Capped,150,Woakes
+15,16,3,WK1,Alex,Carey,Australia,CA,1991-08-27,28,WICKETKEEPER,LHB,-,,29.0,25.0,,,,,Capped,50,Carey
+16,17,3,WK1,Shai,Hope,West Indies,CWI,1993-11-10,26,WICKETKEEPER,RHB,-,31.0,69.0,13.0,,,,,Capped,50,Hope
+17,18,3,WK1,Heinrich,Klaasen,South Africa,CSA,1991-07-30,28,WICKETKEEPER,RHB,-,1.0,14.0,9.0,7.0,"RR, RCB",RCB,3.0,Capped,50,Klaasen
+18,19,3,WK1,Naman,Ojha,India,MPCA,1983-07-20,36,WICKETKEEPER,RHB,-,1.0,1.0,2.0,113.0,"RR, SRH, DD",,,Capped,50,Ojha
+19,20,3,WK1,Kusal,Perera,Sri Lanka,SLC,1990-08-17,29,WICKETKEEPER,LHB,-,18.0,98.0,42.0,2.0,RR,,,Capped,50,Perera
+20,21,3,WK1,Mushfiqur,Rahim,Bangladesh,BAN,1987-06-09,32,WICKETKEEPER,RHB,-,69.0,216.0,84.0,,,,,Capped,75,Rahim
+21,22,4,FA1,Sheldon,Cottrell,West Indies,CWI,1989-08-19,30,BOWLER,RHB,LEFT ARM Fast Medium,2.0,27.0,16.0,,,,,Capped,50,Cottrell
+22,23,4,FA1,Nathan,Coulter-Nile,Australia,CA,1987-10-11,32,BOWLER,RHB,RIGHT ARM Fast Medium,,32.0,28.0,26.0,"MI, DD, KKR, RCB",RCB,0.0,Capped,100,Coulter-Nile
+23,24,4,FA1,Mohit,Sharma,India,HCA,1988-09-18,31,BOWLER,RHB,RIGHT ARM Fast Medium,,26.0,8.0,85.0,"KXIP, CSK",CSK,1.0,Capped,50,Sharma
+24,25,4,FA1,Tim,Southee,New Zealand,NZC,1988-12-11,31,BOWLER,RHB,RIGHT ARM Fast Medium,67.0,140.0,66.0,40.0,"CSK, MI, RR, RCB",RCB,3.0,Capped,100,Southee
+25,26,4,FA1,Dale,Steyn,South Africa,CSA,1983-06-27,36,BOWLER,RHB,RIGHT ARM Fast,93.0,125.0,44.0,92.0,"DCH, SRH, GL, RCB",RCB,2.0,Capped,200,Steyn
+26,27,4,FA1,Andrew,Tye,Australia,CA,1986-12-12,33,BOWLER,RHB,RIGHT ARM Fast Medium,,7.0,26.0,26.0,"GL, KXIP",KXIP,6.0,Capped,100,Tye
+27,28,4,FA1,Jaydev,Unadkat,India,SCA,1991-10-18,28,BOWLER,RHB,LEFT ARM Medium Fast,1.0,7.0,10.0,73.0,"KKR, RCB, DD,RPS,RR",RR,11.0,Capped,100,Unadkat
+28,29,5,SP1,Piyush,Chawla,India,GUCA,1988-12-24,31,BOWLER,LHB,RIGHT ARM Leg Break,3.0,25.0,7.0,157.0,"KXIP, KKR",KKR,13.0,Capped,100,Chawla
+29,30,5,SP1,Zahir,Khan,Afghanistan,AFG,1998-12-20,21,BOWLER,LHB,LEFT ARM Slow Unorthodox,1.0,1.0,,0.0,RR,,,Capped,50,Khan
+30,31,5,SP1,Ish,Sodhi,New Zealand,NZC,1992-10-31,27,BOWLER,RHB,RIGHT ARM Leg Break,17.0,31.0,40.0,8.0,RR,RR,2.0,Capped,75,Sodhi
+31,32,5,SP1,Hayden,Walsh,West Indies,CWI,1992-04-23,27,BOWLER,LHB,RIGHT ARM Leg Break,,4.0,10.0,,,,,Capped,50,Walsh
+32,33,5,SP1,Adam,Zampa,Australia,CA,1992-03-31,28,BOWLER,RHB,RIGHT ARM Leg Break,,48.0,27.0,11.0,RPS,,,Capped,150,Zampa
+33,34,6,UBA1,Harpreet,Bhatia,India,CSCSCA,1991-08-11,28,BATSMAN,LHB,RIGHT ARM Medium,,,,4.0,"KKR, PWI, RCB",,,Uncapped,20,Bhatia
+34,35,6,UBA1,Priyam,Garg,India,UPCA,2000-11-30,19,BATSMAN,RHB,RIGHT ARM Off Break,,,,,,,,Uncapped,20,Garg
+35,36,6,UBA1,Rohan,Kadam,India,KSCA,1994-07-05,25,BATSMAN,LHB,RIGHT ARM Leg Break,,,,,,,,Uncapped,20,Kadam
+36,37,6,UBA1,Manjot,Kalra,India,DDCA,1999-01-15,21,BATSMAN,LHB,LEFT ARM Slow Orthodox,,,,0.0,DC,DC,0.0,Uncapped,20,Kalra
+37,38,6,UBA1,Virat,Singh,India,JSCA,1997-12-08,22,BATSMAN,LHB,RIGHT ARM Off Break,,,,,,,,Uncapped,20,Singh
+38,39,6,UBA1,Rahul,Tripathi,India,MACA,1991-03-02,29,BATSMAN,RHB,RIGHT ARM Medium Fast,,,,34.0,"RPS, RR",RR,8.0,Uncapped,20,Tripathi
+39,40,7,UAL1,Varun,Chakaravarthy,India,TNCA,1991-08-29,28,ALL-ROUNDER,RHB,RIGHT ARM Leg Break,,,,1.0,KXIP,KXIP,1.0,Uncapped,30,Chakaravarthy
+40,41,7,UAL1,Pavan,Deshpande,India,KSCA,1989-09-16,30,ALL-ROUNDER,LHB,RIGHT ARM Off Break,,,,0.0,RCB,,,Uncapped,20,Deshpande
+41,42,7,UAL1,Deepak,Hooda,India,BCA,1995-04-19,24,ALL-ROUNDER,RHB,RIGHT ARM Off Break,,,,61.0,"RR, SRH",SRH,11.0,Uncapped,40,Hooda
+42,43,7,UAL1,Yashasvi,Jaiswal,India,MCA,2001-12-28,18,ALL-ROUNDER,LHB,RIGHT ARM Leg Break,,,,,,,,Uncapped,20,Jaiswal
+43,44,7,UAL1,Shahrukh,Khan,India,TNCA,1995-05-27,24,ALL-ROUNDER,RHB,RIGHT ARM Off Break,,,,,,,,Uncapped,20,Khan
+44,45,7,UAL1,Daniel,Sams,Australia,CA,1992-10-27,27,ALL-ROUNDER,RHB,LEFT ARM Medium Fast,,,,,,,,Uncapped,20,Sams
+45,46,8,UWK1,Ankush,Bains,India,HPCA,1995-12-16,24,WICKETKEEPER,RHB,-,,,,0.0,"RPS, DC",DC,0.0,Uncapped,20,Bains
+46,47,8,UWK1,K.S,Bharat,India,ACA,1993-10-03,26,WICKETKEEPER,RHB,-,,,,0.0,DD,,,Uncapped,20,Bharat
+47,48,8,UWK1,Kedar,Devdhar,India,BCA,1989-12-14,30,WICKETKEEPER,RHB,-,,,,1.0,DCH,,,Uncapped,20,Devdhar
+48,49,8,UWK1,Anuj,Rawat,India,DDCA,1999-10-17,20,WICKETKEEPER,LHB,-,,,,,,,,Uncapped,20,Rawat
+49,50,8,UWK1,Prabhsimran,Singh,India,PCA,2000-08-10,19,WICKETKEEPER,RHB,-,,,,1.0,KXIP,KXIP,1.0,Uncapped,20,Singh
+50,51,8,UWK1,Vishnu,Vinod,India,KCA,1993-12-02,26,WICKETKEEPER,RHB,-,,,,3.0,RCB,,,Uncapped,20,Vinod
+51,52,9,UFA1,Tushar,Deshpande,India,MCA,1995-05-15,24,BOWLER,LHB,RIGHT ARM Fast,,,,,,,,Uncapped,20,Deshpande
+52,53,9,UFA1,Kulwant,Khejroliya,India,DDCA,1992-03-13,28,BOWLER,LHB,LEFT ARM Fast,,,,5.0,"MI, RCB",RCB,2.0,Uncapped,20,Khejroliya
+53,54,9,UFA1,Riley,Meredith,Australia,CA,1996-06-21,23,BOWLER,RHB,RIGHT ARM Fast,,,,,,,,Uncapped,40,Meredith
+54,55,9,UFA1,Ishan,Porel,India,CAB,1998-09-05,21,BOWLER,RHB,RIGHT ARM Fast Medium,,,,,,,,Uncapped,20,Porel
+55,56,9,UFA1,Akash,Singh,India,RCA,2002-04-26,17,BOWLER,RHB,LEFT ARM Fast Medium,,,,,,,,Uncapped,20,Singh
+56,57,9,UFA1,Kartik,Tyagi,India,UPCA,2000-11-08,19,BOWLER,RHB,RIGHT ARM Medium Fast,,,,,,,,Uncapped,20,Tyagi
+57,58,10,USP1,Noor,Ahmad,Afghanistan,AFG,2005-01-03,15,BOWLER,RHB,LEFT ARM Slow Unorthodox,,,,,,,,Uncapped,30,Ahmad
+58,59,10,USP1,Ravi,Bishnoi,India,RCA,2000-09-05,19,BOWLER,RHB,RIGHT ARM Leg Break,,,,,,,,Uncapped,20,Bishnoi
+59,60,10,USP1,K.C,Cariappa,India,KSCA,1994-04-13,25,BOWLER,RHB,RIGHT ARM Leg Break,,,,11.0,"KXIP, KKR",KKR,1.0,Uncapped,20,Cariappa
+60,61,10,USP1,R,Sai Kishore,India,TNCA,1996-11-06,23,BOWLER,LHB,LEFT ARM Slow Orthodox,,,,,,,,Uncapped,20,Sai Kishore
+61,62,10,USP1,M,Siddharth,India,TNCA,1998-07-03,21,BOWLER,RHB,LEFT ARM Slow Orthodox,,,,,,,,Uncapped,20,Siddharth
+62,63,10,USP1,Midhun,Sudhesan,India,KCA,1994-10-07,25,BOWLER,RHB,RIGHT ARM Leg Break,,,,1.0,,RR,1.0,Uncapped,20,Sudhesan
+63,64,11,BA2,Martin,Guptill,New Zealand,NZC,1986-09-30,33,BATSMAN,RHB,-,47.0,179.0,83.0,13.0,"MI, KXIP, SRH",SRH,3.0,Capped,100,Guptill
+64,65,11,BA2,Shimron,Hetmyer,West Indies,CWI,1996-12-26,23,BATSMAN,LHB,RIGHT ARM Leg Break,15.0,40.0,17.0,5.0,RCB,RCB,5.0,Capped,50,Hetmyer
+65,66,11,BA2,Colin,Ingram,South Africa,CSA,1985-07-03,34,BATSMAN,LHB,RIGHT ARM Leg Break,,31.0,9.0,15.0,"DD, DC",DC,12.0,Capped,50,Ingram
+66,67,11,BA2,Evin,Lewis,West Indies,CWI,1991-12-27,28,BATSMAN,LHB,-,,46.0,26.0,16.0,MI,MI,3.0,Capped,100,Lewis
+67,68,11,BA2,David,Miller,South Africa,CSA,1989-06-10,30,BATSMAN,LHB,-,,126.0,72.0,79.0,KXIP,KXIP,10.0,Capped,75,Miller
+68,69,11,BA2,Saurabh,Tiwary,India,JSCA,1989-12-30,30,BATSMAN,LHB,RIGHT ARM Off Break,,3.0,,81.0,"RCB, DD, RPS, MI",,,Capped,50,Tiwary
+69,70,11,BA2,Manoj,Tiwary,India,CAB,1985-11-14,34,BATSMAN,RHB,RIGHT ARM Leg Break,,12.0,3.0,98.0,"DD, KKR, RPS, KXIP",,,Capped,50,Tiwary
+70,71,12,AL2,Carlos,Brathwaite,West Indies,CWI,1988-07-18,31,ALL-ROUNDER,RHB,RIGHT ARM Fast,3.0,44.0,41.0,16.0,"DD, SRH, KKR",KKR,2.0,Capped,50,Brathwaite
+71,72,12,AL2,Ben,Cutting,Australia,CA,1987-01-30,33,ALL-ROUNDER,RHB,RIGHT ARM Medium Fast,,4.0,7.0,21.0,"RR, SRH, MI",MI,3.0,Capped,75,Cutting
+72,73,12,AL2,Rishi,Dhawan,India,HPCA,1990-02-19,30,ALL-ROUNDER,RHB,RIGHT ARM Medium Fast,,3.0,1.0,26.0,"MI, KXIP, KKR",,,Capped,50,Dhawan
+73,74,12,AL2,Mitchell,Marsh,Australia,CA,1991-10-20,28,ALL-ROUNDER,RHB,RIGHT ARM Medium Fast,32.0,53.0,11.0,20.0,"DCH, PWI, RPS",,,Capped,200,Marsh
+74,75,12,AL2,Colin,Munro,New Zealand,NZC,1987-03-11,33,ALL-ROUNDER,LHB,RIGHT ARM Medium,1.0,57.0,60.0,13.0,"KKR, DC",DC,4.0,Capped,100,Munro
+75,76,12,AL2,James,Neesham,New Zealand,NZC,1990-09-17,29,ALL-ROUNDER,LHB,RIGHT ARM Fast Medium,12.0,59.0,18.0,4.0,DD,,,Capped,50,Neesham
+76,77,12,AL2,Andile,Phehlukwayo,South Africa,CSA,1996-03-03,24,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,4.0,52.0,23.0,,,,,Capped,50,Phehlukwayo
+77,78,12,AL2,Marcus,Stoinis,Australia,CA,1989-08-16,30,ALL-ROUNDER,RHB,RIGHT ARM Medium Fast,,41.0,19.0,29.0,"KXIP, RCB",RCB,10.0,Capped,100,Stoinis
+78,79,13,FA2,Josh,Hazlewood,Australia,CA,1991-01-08,29,BOWLER,LHB,RIGHT ARM Fast,49.0,44.0,7.0,,,,,Capped,200,Hazlewood
+79,80,13,FA2,Alzarri,Joseph,West Indies,CWI,1996-11-20,23,BOWLER,RHB,RIGHT ARM Fast,9.0,19.0,,3.0,MI,MI,3.0,Capped,50,Joseph
+80,81,13,FA2,Adam,Milne,New Zealand,NZC,1992-04-13,27,BOWLER,RHB,RIGHT ARM Fast,,40.0,21.0,5.0,"RCB, MI",MI,0.0,Capped,50,Milne
+81,82,13,FA2,Anrich,Nortje,South Africa,CSA,1993-11-16,26,BOWLER,RHB,RIGHT ARM Fast,2.0,4.0,1.0,0.0,,KKR,0.0,Capped,50,Nortje
+82,83,13,FA2,Mustafizur,Rahman,Bangladesh,BAN,1995-09-06,24,BOWLER,LHB,LEFT ARM Fast Medium,13.0,56.0,37.0,24.0,"SRH, MI",,,Capped,100,Rahman
+83,84,13,FA2,Barinder,Sran,India,UTCA,1992-12-10,27,BOWLER,LHB,LEFT ARM Fast Medium,,6.0,2.0,24.0,"RR, SRH, KXIP, MI",MI,2.0,Capped,50,Sran
+84,85,13,FA2,Mark,Wood,England,ECB,1990-01-11,30,BOWLER,RHB,RIGHT ARM Fast Medium,13.0,51.0,5.0,1.0,CSK,,,Capped,50,Wood
+85,86,14,UBA2,Shivam,Chauhan,India,HCA,1997-10-14,22,BATSMAN,RHB,RIGHT ARM Medium,,,,,,,,Uncapped,20,Chauhan
+86,87,14,UBA2,Abhimanyu,Easwaran,India,CAB,1995-09-06,24,BATSMAN,RHB,RIGHT ARM Leg Break,,,,,,,,Uncapped,20,Easwaran
+87,88,14,UBA2,Laurie,Evans,England,ECB,1987-10-12,32,BATSMAN,RHB,-,,,,,,,,Uncapped,40,Evans
+88,89,14,UBA2,Naushad,Shaikh,India,MACA,1991-10-15,28,BATSMAN,RHB,RIGHT ARM Off Break,,,,,,,,Uncapped,20,Shaikh
+89,90,14,UBA2,Pratham,Singh,India,RSPB,1992-08-31,27,BATSMAN,LHB,RIGHT ARM Off Break,,,,0.0,GL,,,Uncapped,20,Singh
+90,91,14,UBA2,Himmat,Singh,India,DDCA,1996-11-08,23,BATSMAN,RHB,RIGHT ARM Off Break,,,,0.0,RCB,RCB,0.0,Uncapped,20,Singh
+91,92,15,UAL2,Ayush,Badoni,India,DDCA,1999-12-03,20,ALL-ROUNDER,RHB,RIGHT ARM Off Break,,,,,,,,Uncapped,20,Badoni
+92,93,15,UAL2,Sandeep,Bavanaka,India,HYCA,1992-04-25,27,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,,,,,Uncapped,20,Bavanaka
+93,94,15,UAL2,Pravin,Dubey,India,KSCA,1993-07-01,26,ALL-ROUNDER,RHB,RIGHT ARM Leg Break,,,,0.0,RCB,,,Uncapped,20,Dubey
+94,95,15,UAL2,Chris,Green,Australia,CA,1993-10-01,26,ALL-ROUNDER,RHB,RIGHT ARM Off Break,,,,,,,,Uncapped,20,Green
+95,96,15,UAL2,Shubhang,Hegde,India,KSCA,2001-03-30,19,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,,,,,Uncapped,20,Hegde
+96,97,15,UAL2,Shams,Mulani,India,MCA,1997-03-13,23,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,,,,,Uncapped,20,Mulani
+97,98,15,UAL2,Shubham,Ranjane,India,MCA,1994-03-26,26,ALL-ROUNDER,RHB,RIGHT ARM Medium Fast,,,,0.0,RR,RR,0.0,Uncapped,20,Ranjane
+98,99,15,UAL2,Dhruv,Shorey,India,DDCA,1992-06-06,27,ALL-ROUNDER,RHB,RIGHT ARM Off Break,,,,2.0,CSK,CSK,1.0,Uncapped,20,Shorey
+99,100,15,UAL2,Swapnil,Singh,India,BCA,1991-01-22,29,ALL-ROUNDER,RHB,LEFT ARM Slow Orthodox,,,,5.0,"MI, KXIP",,,Uncapped,20,Singh
+100,101,15,UAL2,Lalit,Yadav,India,DDCA,1997-01-03,23,ALL-ROUNDER,RHB,RIGHT ARM Off Break,,,,,,,,Uncapped,20,Yadav
+101,102,16,UWK2,Shahbaz,Ahamad,India,CAB,1994-12-11,25,WICKETKEEPER,LHB,LEFT ARM Slow Orthodox,,,,,,,,Uncapped,20,Ahamad
+102,103,16,UWK2,Sheldon,Jackson,India,SCA,1986-09-27,33,WICKETKEEPER,RHB,-,,,,4.0,KKR,,,Uncapped,20,Jackson
+103,104,16,UWK2,Arun,Karthick,India,CAP,1986-02-15,34,WICKETKEEPER,RHB,RIGHT ARM Leg Break,,,,17.0,"CSK, RCB",,,Uncapped,20,Karthick
+104,105,16,UWK2,Nikhil,Naik,India,MACA,1994-11-09,25,WICKETKEEPER,RHB,-,,,,3.0,"KXIP, KKR",KKR,1.0,Uncapped,20,Naik
+105,106,16,UWK2,Agniv,Pan,India,CAB,1997-01-01,23,WICKETKEEPER,LHB,-,,,,,,,,Uncapped,20,Pan
+106,107,16,UWK2,Joshua,Philippe,Australia,CA,1997-06-01,22,WICKETKEEPER,RHB,-,,,,,,,,Uncapped,20,Philippe
+107,108,16,UWK2,Luvnith,Sisodia,India,KSCA,2000-01-15,20,WICKETKEEPER,LHB,-,,,,,,,,Uncapped,20,Sisodia
+108,109,16,UWK2,Upendra Singh,Yadav,India,UPCA,1996-10-08,23,WICKETKEEPER,RHB,RIGHT ARM Off Break,,,,,,,,Uncapped,20,Yadav
+109,110,17,UFA2,Ben,Dwarshuis,Australia,CA,1994-06-23,25,BOWLER,LHB,LEFT ARM Fast Medium,,,,0.0,KXIP,,,Uncapped,40,Dwarshuis
+110,111,17,UFA2,Ali,Khan,United States of America,USA,1990-12-13,29,BOWLER,RHB,RIGHT ARM Fast,,,,,,,,Associate,20,Khan
+111,112,17,UFA2,Mohsin,Khan,India,UPCA,1998-07-15,21,BOWLER,LHB,LEFT ARM Fast Medium,,,,0.0,MI,,,Uncapped,20,Khan
+112,113,17,UFA2,Lukman Hussain,Meriwala,India,BCA,1991-12-11,28,BOWLER,LHB,LEFT ARM Medium Fast,,,,,,,,Uncapped,20,Meriwala
+113,114,17,UFA2,Rahul,Shukla,India,JSCA,1990-08-28,29,BOWLER,RHB,RIGHT ARM Fast,,,,7.0,"MI, RR, DD",,,Uncapped,20,Shukla
+114,115,17,UFA2,Gourav,Yadav,India,MPCA,1991-10-31,28,BOWLER,RHB,RIGHT ARM Fast,,,,,,,,Uncapped,20,Yadav
+115,116,18,USP2,Zeeshan,Ansari,India,UPCA,1999-12-16,20,BOWLER,RHB,RIGHT ARM Leg Break,,,,,,,,Uncapped,20,Ansari
+116,117,18,USP2,Satyajeet,Bachhav,India,MACA,1992-11-28,27,BOWLER,LHB,LEFT ARM Slow Orthodox,,,,,,,,Uncapped,20,Bachhav
+117,118,18,USP2,Tejas,Baroka,India,DDCA,1996-02-01,24,BOWLER,RHB,RIGHT ARM Leg Break,,,,1.0,GL,,,Uncapped,20,Baroka
+118,119,18,USP2,Shivil,Kaushik,India,KSCA,1995-09-07,24,BOWLER,RHB,LEFT ARM Slow Unorthodox,,,,7.0,GL,,,Uncapped,20,Kaushik
+119,120,18,USP2,Pradeep,Sahu,India,MCA,1985-08-21,34,BOWLER,RHB,RIGHT ARM Leg Break,,,,5.0,"RR, KXIP",,,Uncapped,20,Sahu
+120,121,18,USP2,Karanveer,Singh,India,UTCA,1987-11-08,32,BOWLER,RHB,RIGHT ARM Leg Break,,,,9.0,KXIP,,,Uncapped,20,Singh
+121,122,19,BA3,Tom,Banton,England,ECB,1998-11-11,21,BATSMAN,RHB,-,,,3.0,,,,,Capped,100,Banton
+122,123,19,BA3,Alex,Hales,England,ECB,1989-01-03,31,BATSMAN,RHB,-,11.0,70.0,60.0,6.0,"MI, SRH",,,Capped,100,Hales
+123,124,19,BA3,Janneman,Malan,South Africa,CSA,1996-04-18,23,BATSMAN,RHB,-,,,2.0,,,,,Capped,50,Malan
+124,125,19,BA3,Aiden,Markram,South Africa,CSA,1994-10-04,25,BATSMAN,RHB,RIGHT ARM Off Break,19.0,26.0,2.0,,,,,Capped,50,Markram
+125,126,19,BA3,Shaun,Marsh,Australia,CA,1983-07-09,36,BATSMAN,LHB,LEFT ARM Slow Orthodox,38.0,73.0,15.0,71.0,KXIP,,,Capped,150,Marsh
+126,127,19,BA3,Rilee,Rossouw,South Africa,CSA,1989-10-09,30,BATSMAN,LHB,RIGHT ARM Off Break,,36.0,15.0,5.0,RCB,,,Capped,100,Rossouw
+127,128,20,AL3,Fabian,Allen,West Indies,CWI,1995-05-07,24,ALL-ROUNDER,RHB,LEFT ARM Slow Orthodox,,12.0,11.0,,,,,Capped,50,Allen
+128,129,20,AL3,Corey,Anderson,New Zealand,NZC,1990-12-13,29,ALL-ROUNDER,LHB,LEFT ARM Medium,13.0,49.0,31.0,30.0,"MI,DD, RCB",,,Capped,75,Anderson
+129,130,20,AL3,Tom,Curran,England,ECB,1995-03-12,25,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,2.0,17.0,15.0,5.0,KKR,,,Capped,100,Curran
+130,131,20,AL3,Jason,Holder,West Indies,CWI,1991-11-05,28,ALL-ROUNDER,RHB,RIGHT ARM Fast,39.0,109.0,14.0,11.0,"CSK, SRH, KKR",,,Capped,75,Holder
+131,132,20,AL3,Chris,Jordan,England,ECB,1988-10-04,31,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,8.0,31.0,43.0,11.0,"RCB, SRH",,,Capped,75,Jordan
+132,133,20,AL3,Daryl,Mitchell,New Zealand,NZC,1991-05-20,28,ALL-ROUNDER,RHB,RIGHT ARM Medium Fast,,,9.0,,,,,Capped,50,Mitchell
+133,134,20,AL3,Rovman,Powell,West Indies,CWI,1993-07-23,26,ALL-ROUNDER,RHB,RIGHT ARM Medium Fast,,34.0,23.0,0.0,KKR,,,Capped,50,Powell
+134,135,20,AL3,Isuru,Udana,Sri Lanka,SLC,1988-02-17,32,ALL-ROUNDER,RHB,LEFT ARM Medium Fast,15.0,27.0,89.0,,,,,Capped,50,Udana
+135,136,20,AL3,David,Willey,England,ECB,1990-02-28,30,ALL-ROUNDER,LHB,LEFT ARM Fast Medium,,46.0,28.0,3.0,CSK,CSK,0.0,Capped,150,Willey
+136,137,21,WK2,Ben,Dunk,Australia,CA,1987-03-11,33,WICKETKEEPER,LHB,RIGHT ARM Off Break,,,5.0,3.0,MI,,,Capped,50,Dunk
+137,138,21,WK2,Tom,Latham,New Zealand,NZC,1992-04-02,28,WICKETKEEPER,LHB,-,46.0,95.0,13.0,,,,,Capped,50,Latham
+138,139,21,WK2,Ben,McDermott,Australia,CA,1994-12-12,25,WICKETKEEPER,RHB,-,,,12.0,,,,,Capped,50,McDermott
+139,140,21,WK2,Glenn,Phillips,New Zealand,NZC,1996-12-06,23,WICKETKEEPER,RHB,RIGHT ARM Off Break,,,11.0,,,,,Capped,50,Phillips
+140,141,21,WK2,Tim,Seifert,New Zealand,NZC,1994-12-14,25,WICKETKEEPER,RHB,-,,3.0,19.0,,,,,Capped,50,Seifert
+141,142,21,WK2,Mohammad,Shahzad,Afghanistan,AFG,1987-06-10,32,WICKETKEEPER,RHB,-,2.0,84.0,65.0,,,,,Capped,50,Shahzad
+142,143,22,FA3,Sean,Abbott,Australia,CA,1992-02-29,28,BOWLER,RHB,RIGHT ARM Fast Medium,,1.0,4.0,2.0,RCB,,,Capped,75,Abbott
+143,144,22,FA3,Pat,Brown,England,ECB,1998-08-23,21,BOWLER,RHB,RIGHT ARM Medium Fast,,,4.0,,,,,Capped,50,Brown
+144,145,22,FA3,Beuran,Hendricks,South Africa,CSA,1990-06-08,29,BOWLER,LHB,LEFT ARM Fast Medium,,4.0,11.0,7.0,KXIP,MI,0.0,Capped,50,Hendricks
+145,146,22,FA3,Matt,Henry,New Zealand,NZC,1991-12-14,28,BOWLER,RHB,RIGHT ARM Fast Medium,10.0,52.0,6.0,2.0,KXIP,,,Capped,50,Henry
+146,147,22,FA3,Kane,Richardson,Australia,CA,1991-02-12,29,BOWLER,RHB,RIGHT ARM Fast Medium,,22.0,15.0,14.0,"PWI, RR, RCB",,,Capped,150,Richardson
+147,148,22,FA3,Oshane,Thomas,West Indies,CWI,1997-02-18,23,BOWLER,LHB,RIGHT ARM Fast,,19.0,10.0,4.0,RR,RR,4.0,Capped,50,Thomas
+148,149,22,FA3,Naveen,Ul Haq,Afghanistan,AFG,1999-09-23,20,BOWLER,RHB,RIGHT ARM Fast Medium,,4.0,4.0,,,,,Capped,50,Ul Haq
+149,150,23,SP2,Qais,Ahmad,Afghanistan,AFG,2000-08-15,19,BOWLER,RHB,RIGHT ARM Leg Break,1.0,,,,,,,Capped,50,Ahmad
+150,151,23,SP2,Fawad,Ahmed,Australia,CA,1982-02-05,38,BOWLER,RHB,RIGHT ARM Leg Break,,3.0,2.0,,,,,Capped,50,Ahmed
+151,152,23,SP2,Khary,Pierre,West Indies,CWI,1991-09-22,28,BOWLER,LHB,LEFT ARM Slow Orthodox,,,5.0,,,,,Capped,50,Pierre
+152,153,23,SP2,Waqar,Salamkheil,Afghanistan,AFG,2001-10-02,18,BOWLER,RHB,LEFT ARM Slow Unorthodox,1.0,,,,,,,Capped,50,Salamkheil
+153,154,23,SP2,Tabraiz,Shamsi,South Africa,CSA,1990-02-18,30,BOWLER,LHB,LEFT ARM Slow Unorthodox,2.0,17.0,16.0,4.0,RCB,,,Capped,50,Shamsi
+154,155,24,UBA3,Shivam,Bhambri,India,UTCA,1995-09-30,24,BATSMAN,RHB,-,,,,,,,,Uncapped,20,Bhambri
+155,156,24,UBA3,Ricky,Bhui,India,ACA,1996-09-29,23,BATSMAN,RHB,RIGHT ARM Leg Break,,,,2.0,SRH,SRH,1.0,Uncapped,20,Bhui
+156,157,24,UBA3,Hiten,Dalal,India,DDCA,1994-09-25,25,BATSMAN,RHB,-,,,,,,,,Uncapped,20,Dalal
+157,158,24,UBA3,Shubham,Khajuria,India,JKCA,1995-09-13,24,BATSMAN,RHB,RIGHT ARM Medium,,,,,,,,Uncapped,20,Khajuria
+158,159,24,UBA3,Amandeep,Khare,India,CSCSCA,1997-08-05,22,BATSMAN,RHB,RIGHT ARM Fast Medium,,,,,,,,Uncapped,20,Khare
+159,160,24,UBA3,Samarth,R,India,KSCA,1993-01-22,27,BATSMAN,RHB,RIGHT ARM Off Break,,,,,,,,Uncapped,20,R
+160,161,24,UBA3,Mayank,Rawat,India,DDCA,1999-12-04,20,BATSMAN,RHB,RIGHT ARM Off Break,,,,,,,,Uncapped,20,Rawat
+161,162,25,UAL3,N.Tilak,Varma,India,HYCA,2002-11-08,17,ALL-ROUNDER,LHB,RIGHT ARM Off Break,,,,,,,,Uncapped,20,Varma
+162,163,25,UAL3,Prayas,Barman,India,CAB,2002-10-25,17,ALL-ROUNDER,RHB,RIGHT ARM Leg Break,,,,1.0,RCB,RCB,1.0,Uncapped,20,Barman
+163,164,25,UAL3,Prashant,Chopra,India,HPCA,1992-10-07,27,ALL-ROUNDER,RHB,RIGHT ARM Leg Break,,,,2.0,RR,RR,1.0,Uncapped,20,Chopra
+164,165,25,UAL3,Mayank,Dagar,India,HPCA,1996-11-11,23,ALL-ROUNDER,RHB,LEFT ARM Slow Orthodox,,,,0.0,KXIP,,,Uncapped,20,Dagar
+165,166,25,UAL3,C,Hari Nishaanth,India,TNCA,1996-08-16,23,ALL-ROUNDER,LHB,RIGHT ARM Off Break,,,,,,,,Uncapped,20,Hari Nishaanth
+166,167,25,UAL3,Roosh,Kalaria,India,GUCA,1993-01-16,27,ALL-ROUNDER,RHB,LEFT ARM Fast Medium,,,,,,,,Uncapped,20,Kalaria
+167,168,25,UAL3,Akshay,Karnewar,India,VCA,1992-10-12,27,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,,,,,Uncapped,20,Karnewar
+168,169,25,UAL3,Sumit,Kumar,India,HCA,1995-12-12,24,ALL-ROUNDER,RHB,RIGHT ARM Medium Fast,,,,,,,,Uncapped,20,Kumar
+169,170,25,UAL3,Vishal,Kushwah,India,CSCSCA,1990-11-30,29,ALL-ROUNDER,RHB,RIGHT ARM Medium Fast,,,,,,,,Uncapped,20,Kushwah
+170,171,25,UAL3,Akshdeep,Nath,India,UPCA,1993-05-10,26,ALL-ROUNDER,RHB,RIGHT ARM Medium,,,,14.0,"GL, KXIP, RCB",RCB,8.0,Uncapped,20,Nath
+171,172,26,UWK3,Avi,Barot,India,SCA,1992-06-25,27,WICKETKEEPER,RHB,-,,,,,,,,Uncapped,20,Barot
+172,173,26,UWK3,Aryan,Juyal,India,UPCA,2001-11-11,18,WICKETKEEPER,RHB,-,,,,,,,,Uncapped,20,Juyal
+173,174,26,UWK3,Sumit,Kumar,India,JSCA,1995-12-30,24,WICKETKEEPER,RHB,-,,,,,,,,Uncapped,20,Kumar
+174,175,26,UWK3,Anmol,Malhotra,India,PCA,1995-11-29,24,WICKETKEEPER,RHB,RIGHT ARM Off Break,,,,,,,,Uncapped,20,Malhotra
+175,176,26,UWK3,Smit,Patel,India,TCA,1993-05-16,26,WICKETKEEPER,RHB,-,,,,,,,,Uncapped,20,Patel
+176,177,26,UWK3,Saurabh,Rawat,India,CAU,1996-12-21,23,WICKETKEEPER,RHB,-,,,,,,,,Uncapped,20,Rawat
+177,178,26,UWK3,Jitesh,Sharma,India,VCA,1993-10-22,26,WICKETKEEPER,RHB,-,,,,0.0,MI,,,Uncapped,20,Sharma
+178,179,26,UWK3,Mayank,Sidhu,India,PCA,1997-11-22,22,WICKETKEEPER,RHB,-,,,,,,,,Uncapped,20,Sidhu
+179,180,27,UFA3,Nandre,Burger,South Africa,CSA,1995-08-11,24,BOWLER,LHB,LEFT ARM Fast,,,,,,,,Uncapped,20,Burger
+180,181,27,UFA3,Stephen,Chipurupalli,India,ACA,1993-12-03,26,BOWLER,LHB,LEFT ARM Fast Medium,,,,,,,,Uncapped,20,Chipurupalli
+181,182,27,UFA3,Yash,Dayal,India,UPCA,1997-12-13,22,BOWLER,RHB,LEFT ARM Fast Medium,,,,,,,,Uncapped,20,Dayal
+182,183,27,UFA3,C.V,Milind,India,HYCA,1994-09-04,25,BOWLER,LHB,LEFT ARM Fast,,,,0.0,DD,,,Uncapped,20,Milind
+183,184,27,UFA3,G,Periyasamy,India,TNCA,1994-03-05,26,BOWLER,RHB,RIGHT ARM Fast Medium,,,,,,,,Uncapped,20,Periyasamy
+184,185,27,UFA3,Chetan,Sakariya,India,SCA,1998-02-28,22,BOWLER,LHB,LEFT ARM Fast Medium,,,,,,,,Uncapped,20,Sakariya
+185,186,27,UFA3,Kuldeep,Sen,India,MPCA,1996-10-22,23,BOWLER,RHB,RIGHT ARM Fast Medium,,,,,,,,Uncapped,20,Sen
+186,187,27,UFA3,Anureet,Singh,India,RSPB,1988-03-02,32,BOWLER,RHB,RIGHT ARM Fast Medium,,,,23.0,"KKR, KXIP, RR",,,Uncapped,30,Singh
+187,188,27,UFA3,Pradeep,Thippeswamy,India,RSPB,1994-08-28,25,BOWLER,RHB,RIGHT ARM Fast Medium,,,,,,,,Uncapped,20,Thippeswamy
+188,189,27,UFA3,Tanveer,Ul Haq,India,RCA,1991-12-03,28,BOWLER,RHB,LEFT ARM Fast,,,,,,,,Uncapped,20,Ul Haq
+189,190,28,USP3,Mihir,Hirwani,India,MPCA,1994-05-14,25,BOWLER,RHB,RIGHT ARM Leg Break,,,,,,,,Uncapped,20,Hirwani
+190,191,28,USP3,S,Manigandan,India,TNCA,1996-05-06,23,BOWLER,RHB,RIGHT ARM Leg Break,,,,,,,,Uncapped,20,Manigandan
+191,192,28,USP3,Shiva,Singh,India,UPCA,1999-10-16,20,BOWLER,RHB,LEFT ARM Slow Orthodox,,,,,,,,Uncapped,20,Singh
+192,193,28,USP3,Ajay,Sonu T,India,JSCA,1999-10-10,20,BOWLER,RHB,RIGHT ARM Leg Break,,,,,,,,Uncapped,20,Sonu T
+193,194,28,USP3,Pravin,Tambe,India,MCA,1971-10-08,48,BOWLER,RHB,RIGHT ARM Leg Break,,,,33.0,"RR, GL, SRH",,,Uncapped,20,Tambe
+194,195,28,USP3,Sagar,Udeshi,India,CAP,1986-10-14,33,BOWLER,LHB,LEFT ARM Slow Orthodox,,,,,,,,Uncapped,20,Udeshi
+195,196,29,BA4,Tom,Bruce,New Zealand,NZC,1991-08-02,28,BATSMAN,RHB,RIGHT ARM Off Break,,,15.0,,,,,Capped,50,Bruce
+196,197,29,BA4,Oshada,Fernando,Sri Lanka,SLC,1992-04-15,27,BATSMAN,RHB,RIGHT ARM Leg Break,2.0,6.0,3.0,,,,,Capped,50,Fernando
+197,198,29,BA4,Avishka,Fernando,Sri Lanka,SLC,1998-04-05,22,BATSMAN,RHB,-,,15.0,10.0,,,,,Capped,50,Fernando
+198,199,29,BA4,Brandon,King,West Indies,CWI,1994-12-16,25,BATSMAN,RHB,RIGHT ARM Off Break,,1.0,3.0,,,,,Capped,50,King
+199,200,29,BA4,Lendl,Simmons,West Indies,CWI,1985-01-25,35,BATSMAN,RHB,RIGHT ARM Medium,8.0,68.0,46.0,29.0,MI,,,Capped,75,Simmons
+200,201,29,BA4,Rassie,Van Der Dussen,South Africa,CSA,1989-02-07,31,BATSMAN,RHB,RIGHT ARM Off Break,,18.0,9.0,,,,,Capped,50,Van Der Dussen
+201,202,30,AL4,Ashton,Agar,Australia,CA,1993-10-14,26,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,4.0,9.0,,,,,,Capped,100,Agar
+202,203,30,AL4,James,Faulkner,Australia,CA,1990-04-29,29,ALL-ROUNDER,RHB,LEFT ARM Medium Fast,1.0,69.0,24.0,60.0,"PWI, KXIP, RR, GL",,,Capped,50,Faulkner
+203,204,30,AL4,Lewis,Gregory,England,ECB,1992-05-24,27,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,5.0,,,,,Capped,50,Gregory
+204,205,30,AL4,Moises,Henriques,Australia,CA,1987-02-01,33,ALL-ROUNDER,RHB,RIGHT ARM Medium Fast,4.0,11.0,11.0,57.0,"KKR, DD, SRH, RCB, KXIP",KXIP,0.0,Capped,100,Henriques
+205,206,30,AL4,Scott,Kuggeleijn,New Zealand,NZC,1992-01-03,28,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,2.0,9.0,2.0,CSK,CSK,2.0,Capped,50,Kuggeleijn
+206,207,30,AL4,Romario,Shepherd,West Indies,CWI,1994-11-26,25,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,3.0,,,,,,Capped,50,Shepherd
+207,208,30,AL4,D'Arcy,Short,Australia,CA,1990-08-09,29,ALL-ROUNDER,LHB,LEFT ARM Slow Unorthodox,,4.0,20.0,7.0,RR,,,Capped,100,Short
+208,209,30,AL4,David,Wiese,South Africa,CSA,1985-05-18,34,ALL-ROUNDER,RHB,RIGHT ARM Medium Fast,,6.0,20.0,15.0,RCB,,,Capped,75,Wiese
+209,210,30,AL4,Karim,Janat,Afghanistan,AFG,1998-08-11,21,ALL-ROUNDER,RHB,RIGHT ARM Medium Fast,,1.0,21.0,,,,,Capped,50,Janat
+210,211,31,FA4,Kyle,Abbott,South Africa,CSA,1987-06-18,32,BOWLER,RHB,RIGHT ARM Fast,11.0,28.0,21.0,5.0,KXIP,,,Capped,150,Abbott
+211,212,31,FA4,Doug,Bracewell,New Zealand,NZC,1990-09-28,29,BOWLER,RHB,RIGHT ARM Fast Medium,27.0,19.0,18.0,1.0,DD,,,Capped,50,Bracewell
+212,213,31,FA4,Marchant,De Lange,South Africa,CSA,1990-10-13,29,BOWLER,RHB,RIGHT ARM Fast,2.0,4.0,6.0,5.0,"KKR, MI",,,Capped,75,De Lange
+213,214,31,FA4,Ben,Laughlin,Australia,CA,1982-10-03,37,BOWLER,RHB,RIGHT ARM Fast Medium,,5.0,3.0,9.0,"CSK, SRH, RR",,,Capped,50,Laughlin
+214,215,31,FA4,Tymal,Mills,England,ECB,1992-08-12,27,BOWLER,RHB,LEFT ARM Fast,,,5.0,5.0,RCB,,,Capped,50,Mills
+215,216,31,FA4,James,Pattinson,Australia,CA,1990-05-03,29,BOWLER,RHB,RIGHT ARM Fast,19.0,15.0,4.0,0.0,KKR,,,Capped,100,Pattinson
+216,217,31,FA4,Liam,Plunkett,England,ECB,1985-04-06,35,BOWLER,RHB,RIGHT ARM Fast Medium,13.0,89.0,22.0,7.0,DD,,,Capped,100,Plunkett
+217,218,32,UBA4,Sachin,Baby,India,KCA,1988-12-18,31,BATSMAN,LHB,RIGHT ARM Off Break,,,,18.0,"RR, RCB, SRH",,,Uncapped,20,Baby
+218,219,32,UBA4,Rajesh,Bishnoi,India,RCA,1987-08-10,32,BATSMAN,RHB,-,,,,3.0,RCB,,,Uncapped,20,Bishnoi
+219,220,32,UBA4,Unmukt,Chand,India,CAU,1993-03-26,27,BATSMAN,RHB,RIGHT ARM Off Break,,,,21.0,"DD, RR, MI",,,Uncapped,20,Chand
+220,221,32,UBA4,Cameron,Delport,South Africa,CSA,1989-05-12,30,BATSMAN,LHB,RIGHT ARM Medium,,,,0.0,KKR,,,Uncapped,40,Delport
+221,222,32,UBA4,Tanmay,Mishra,India,TCA,1986-12-22,33,BATSMAN,RHB,RIGHT ARM Off Break,,,,1.0,DCH,,,Uncapped,20,Mishra
+222,223,32,UBA4,Priyank,Panchal,India,GUCA,1990-04-09,30,BATSMAN,RHB,RIGHT ARM Medium Fast,,,,,,,,Uncapped,20,Panchal
+223,224,32,UBA4,Vishnu,Solanki,India,BCA,1992-10-15,27,BATSMAN,RHB,RIGHT ARM Medium Fast,,,,,,,,Uncapped,20,Solanki
+224,225,33,UAL4,Chaitanya,Bishnoi,India,HCA,1994-08-25,25,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,0.0,CSK,CSK,0.0,Uncapped,20,Bishnoi
+225,226,33,UAL4,Yudhvir,Charak,India,HYCA,1997-09-13,22,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,,,,,Uncapped,20,Charak
+226,227,33,UAL4,Chandrapal,Chundawat,India,RCA,1994-09-08,25,ALL-ROUNDER,RHB,LEFT ARM Slow Orthodox,,,,,,,,Uncapped,20,Chundawat
+227,228,33,UAL4,Tajinder,Dhillon,India,RCA,1992-05-25,27,ALL-ROUNDER,RHB,RIGHT ARM Off Break,,,,0.0,MI,,,Uncapped,20,Dhillon
+228,229,33,UAL4,Azim,Kazi,India,MACA,1993-10-14,26,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,,,,,Uncapped,20,Kazi
+229,230,33,UAL4,Sujit,Nayak,India,MCA,1989-06-23,30,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,,,,,Uncapped,20,Nayak
+230,231,33,UAL4,Abdul,Samad,India,JKCA,2001-10-28,18,ALL-ROUNDER,RHB,RIGHT ARM Leg Break,,,,,,,,Uncapped,20,Samad
+231,232,33,UAL4,Jalaj,Saxena,India,KCA,1986-12-15,33,ALL-ROUNDER,RHB,RIGHT ARM Off Break,,,,0.0,"MI, RCB, DC",DC,0.0,Uncapped,30,Saxena
+232,233,33,UAL4,Utkarsh,Singh,India,JSCA,1998-05-07,21,ALL-ROUNDER,LHB,RIGHT ARM Off Break,,,,,,,,Uncapped,20,Singh
+233,234,33,UAL4,Harsh,Tyagi,India,RSPB,1999-12-23,20,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,,,,,Uncapped,20,Tyagi
+234,235,34,UFA4,Aniket,Choudhary,India,RCA,1990-01-28,30,BOWLER,RHB,LEFT ARM Fast Medium,,,,5.0,RCB,,,Uncapped,20,Choudhary
+235,236,34,UFA4,Puneet,Datey,India,CSCSCA,1994-09-10,25,BOWLER,RHB,RIGHT ARM Fast Medium,,,,,,,,Uncapped,20,Datey
+236,237,34,UFA4,Akash,Deep,India,CAB,1996-12-15,23,BOWLER,RHB,RIGHT ARM Fast Medium,,,,,,,,Uncapped,20,Deep
+237,238,34,UFA4,Nathan,Ellis,Australia,CA,1994-09-22,25,BOWLER,RHB,RIGHT ARM Fast,,,,,,,,Uncapped,20,Ellis
+238,239,34,UFA4,Sayan,Ghosh,India,CAB,1992-09-16,27,BOWLER,RHB,RIGHT ARM Fast Medium,,,,0.0,"KKR,  DD",,,Uncapped,20,Ghosh
+239,240,34,UFA4,Chemar,Holder,West Indies,CWI,1998-03-03,22,BOWLER,RHB,RIGHT ARM Fast,,,,,,,,Uncapped,20,Holder
+240,241,34,UFA4,Arzan,Nagwaswalla,India,GUCA,1997-10-17,22,BOWLER,RHB,LEFT ARM Medium Fast,,,,,,,,Uncapped,20,Nagwaswalla
+241,242,34,UFA4,Safvan,Patel,India,BCA,1998-10-03,21,BOWLER,RHB,LEFT ARM Medium Fast,,,,,,,,Uncapped,20,Patel
+242,243,34,UFA4,Pradeep,Sangwan,India,DDCA,1990-11-05,29,BOWLER,RHB,LEFT ARM Fast Medium,,,,39.0,"DD, KKR, GL, MI",,,Uncapped,30,Sangwan
+243,244,34,UFA4,Prithviraj,Yarra,India,ACA,1998-02-20,22,BOWLER,LHB,LEFT ARM Fast,,,,2.0,KKR,KKR,2.0,Uncapped,20,Yarra
+244,245,35,AL5,Ravi,Bopara,England,ECB,1985-05-04,34,ALL-ROUNDER,RHB,RIGHT ARM Medium,13.0,128.0,30.0,24.0,"KXIP, SRH",,,Capped,50,Bopara
+245,246,35,AL5,Wanindu,Hasaranga,Sri Lanka,SLC,1997-07-29,22,ALL-ROUNDER,RHB,RIGHT ARM Leg Break,,12.0,8.0,,,,,Capped,50,Hasaranga
+246,247,35,AL5,Dimuth,Karunarathna,Sri Lanka,SLC,1988-04-21,31,ALL-ROUNDER,LHB,LEFT ARM Medium Fast,,62.0,28.0,,,,,Capped,50,Karunarathna
+247,248,35,AL5,Mohammad,Mahmudullah,Bangladesh,BAN,1986-02-04,34,ALL-ROUNDER,RHB,RIGHT ARM Off Break,48.0,185.0,83.0,,,,,Capped,75,Mahmudullah
+248,249,35,AL5,Angelo,Mathews,Sri Lanka,SLC,1987-06-02,32,ALL-ROUNDER,RHB,RIGHT ARM Medium Fast,82.0,214.0,72.0,49.0,"KKR, PWI, DD",,,Capped,200,Mathews
+249,250,35,AL5,Wiaan,Mulder,South Africa,CSA,1998-02-19,22,ALL-ROUNDER,RHB,RIGHT ARM Medium,1.0,10.0,,,,,,Capped,50,Mulder
+250,251,35,AL5,Dasun,Shanaka,Sri Lanka,SLC,1991-09-09,28,ALL-ROUNDER,RHB,RIGHT ARM Medium,3.0,22.0,35.0,,,,,Capped,50,Shanaka
+251,252,35,AL5,Jon Jon,Smuts,South Africa,CSA,1988-09-21,31,ALL-ROUNDER,RHB,LEFT ARM Slow Orthodox,,,8.0,,,,,Capped,50,Smuts
+252,253,35,AL5,Ashton,Turner,Australia,CA,1993-01-25,27,ALL-ROUNDER,RHB,RIGHT ARM Off Break,,3.0,11.0,4.0,RR,RR,4.0,Capped,75,Turner
+253,254,36,FA5,Dushmanta,Chameera,Sri Lanka,SLC,1992-01-11,28,BOWLER,RHB,RIGHT ARM Fast,8.0,23.0,19.0,0.0,RR,,,Capped,50,Chameera
+254,255,36,FA5,Saqib,Mahmood,England,ECB,1997-02-25,23,BOWLER,RHB,RIGHT ARM Fast Medium,,,3.0,,,,,Capped,75,Mahmood
+255,256,36,FA5,Obed,McCoy,West Indies,CWI,1997-01-04,23,BOWLER,LHB,LEFT ARM Fast,,2.0,2.0,,,,,Capped,50,McCoy
+256,257,36,FA5,Nuwan,Pradeep,Sri Lanka,SLC,1986-10-19,33,BOWLER,RHB,RIGHT ARM Fast Medium,28.0,42.0,14.0,,,,,Capped,50,Pradeep
+257,258,36,FA5,Blair,Tickner,New Zealand,NZC,1993-10-13,26,BOWLER,RHB,RIGHT ARM Medium Fast,,,3.0,,,,,Capped,50,Tickner
+258,259,36,FA5,Kesrick,Williams,West Indies,CWI,1990-01-08,30,BOWLER,RHB,RIGHT ARM Fast Medium,,8.0,21.0,,,,,Capped,50,Williams
+259,260,37,UBA5,Armaan,Jaffer,India,MCA,1998-10-25,21,BATSMAN,RHB,-,,,,0.0,KXIP,,,Uncapped,20,Jaffer
+260,261,37,UBA5,Siddharth,Krishnamurthy,India,KSCA,1992-11-22,27,BATSMAN,RHB,RIGHT ARM Medium Fast,,,,,,,,Uncapped,20,Krishnamurthy
+261,262,37,UBA5,Rajat,Patidar,India,MPCA,1993-06-01,26,BATSMAN,RHB,RIGHT ARM Off Break,,,,,,,,Uncapped,20,Patidar
+262,263,37,UBA5,Shubham Singh,Pundir,India,JKCA,1998-10-16,21,BATSMAN,LHB,RIGHT ARM Leg Break,,,,,,,,Uncapped,20,Pundir
+263,264,37,UBA5,Himanshu,Rana,India,HCA,1998-10-01,21,BATSMAN,RHB,RIGHT ARM Medium,,,,,,,,Uncapped,20,Rana
+264,265,37,UBA5,Ekant,Sen,India,HPCA,1995-06-21,24,BATSMAN,RHB,RIGHT ARM Medium Fast,,,,,,,,Uncapped,20,Sen
+265,266,37,UBA5,Subhranshu,Senapati,India,OCA,1996-12-30,23,BATSMAN,RHB,RIGHT ARM Medium Fast,,,,,,,,Uncapped,20,Senapati
+266,267,38,UAL5,Baba,Aparajith,India,TNCA,1994-07-08,25,ALL-ROUNDER,RHB,RIGHT ARM Off Break,,,,0.0,RPS,,,Uncapped,20,Aparajith
+267,268,38,UAL5,Gerald,Coetzee,South Africa,CSA,2000-10-02,19,ALL-ROUNDER,RHB,RIGHT ARM Fast,,,,,,,,Uncapped,20,Coetzee
+268,269,38,UAL5,George,Garton,England,ECB,1997-04-15,22,ALL-ROUNDER,LHB,LEFT ARM Fast,,,,,,,,Uncapped,20,Garton
+269,270,38,UAL5,Benny,Howell,England,ECB,1988-10-05,31,ALL-ROUNDER,RHB,RIGHT ARM Medium,,,,,,,,Uncapped,40,Howell
+270,271,38,UAL5,Ankit,Kaushik,India,UTCA,1991-09-05,28,ALL-ROUNDER,RHB,RIGHT ARM Medium Fast,,,,,,,,Uncapped,20,Kaushik
+271,272,38,UAL5,M,Mohammed,India,TNCA,1991-12-03,28,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,,,,,Uncapped,20,Mohammed
+272,273,38,UAL5,Ankit,Sharma,India,MPCA,1991-04-20,28,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,22.0,"DCH, SRH, RPS, RR",,,Uncapped,20,Sharma
+273,274,38,UAL5,Jaskarandeep,Singh,India,UTCA,1989-09-04,30,ALL-ROUNDER,RHB,RIGHT ARM Fast,,,,8.0,"DCH,  RPS",,,Uncapped,30,Singh
+274,275,38,UAL5,Vivek,Singh,India,CAB,1993-11-01,26,ALL-ROUNDER,LHB,RIGHT ARM Medium,,,,,,,,Uncapped,20,Singh
+275,276,38,UAL5,Gurinder,Singh,India,UTCA,1992-07-09,27,ALL-ROUNDER,RHB,LEFT ARM Slow Orthodox,,,,,,,,Uncapped,20,Singh
+276,277,39,UFA5,Vaibhav,Arora,India,HPCA,1997-12-14,22,BOWLER,RHB,RIGHT ARM Medium Fast,,,,,,,,Uncapped,20,Arora
+277,278,39,UFA5,Mukesh,Choudhary,India,MACA,1996-07-06,23,BOWLER,LHB,LEFT ARM Fast,,,,,,,,Uncapped,20,Choudhary
+278,279,39,UFA5,Saurabh,Dubey,India,VCA,1998-01-23,22,BOWLER,RHB,LEFT ARM Fast Medium,,,,,,,,Uncapped,20,Dubey
+279,280,39,UFA5,Matt,Kelly,Australia,CA,1994-12-07,25,BOWLER,RHB,RIGHT ARM Fast Medium,,,,0.0,KKR,KKR,0.0,Uncapped,20,Kelly
+280,281,39,UFA5,Arafat,Khan,India,RCA,1996-12-27,23,BOWLER,RHB,RIGHT ARM Medium Fast,,,,,,,,Uncapped,20,Khan
+281,282,39,UFA5,Zahoor,Khan,UAE,UAE,1989-05-25,30,BOWLER,RHB,RIGHT ARM Fast,,,,,,,,Associate,20,Khan
+282,283,39,UFA5,Sushant,Mishra,India,JSCA,2000-12-23,19,BOWLER,LHB,LEFT ARM Fast Medium,,,,,,,,Uncapped,20,Mishra
+283,284,39,UFA5,David,Payne,England,ECB,1991-02-15,29,BOWLER,RHB,LEFT ARM Fast Medium,,,,,,,,Uncapped,30,Payne
+284,285,39,UFA5,Kanishk,Seth,India,RSPB,1997-11-04,22,BOWLER,RHB,LEFT ARM Fast Medium,,,,0.0,CSK,,,Uncapped,20,Seth
+285,286,39,UFA5,Lalit,Yadav,India,VCA,1995-12-17,24,BOWLER,RHB,RIGHT ARM Fast,,,,,,,,Uncapped,20,Yadav
+286,287,40,AL6,Dan,Christian,Australia,CA,1983-05-04,36,ALL-ROUNDER,RHB,RIGHT ARM Medium,,19.0,16.0,40.0,"DCH, RCB, RPS, DD",,,Capped,75,Christian
+287,288,40,AL6,Anaru,Kitchen,New Zealand,NZC,1984-02-21,36,ALL-ROUNDER,RHB,LEFT ARM Slow Orthodox,,,5.0,,,,,Capped,50,Kitchen
+288,289,40,AL6,Jeevan,Mendis,Sri Lanka,SLC,1983-01-15,37,ALL-ROUNDER,LHB,LEFT ARM Slow Unorthodox,,58.0,22.0,3.0,DD,,,Capped,50,Mendis
+289,290,40,AL6,Thisara,Perera,Sri Lanka,SLC,1989-04-03,31,ALL-ROUNDER,LHB,RIGHT ARM Medium,6.0,161.0,79.0,37.0,"CSK, KTK, MI, SRH,  KXIP, RPS",,,Capped,100,Perera
+290,291,40,AL6,Angelo,Perera,Sri Lanka,SLC,1990-02-23,30,ALL-ROUNDER,RHB,LEFT ARM Slow Orthodox,,6.0,6.0,,,,,Capped,50,Perera
+291,292,40,AL6,Seekkuge,Prasanna,Sri Lanka,SLC,1985-06-27,34,ALL-ROUNDER,RHB,RIGHT ARM Leg Break,1.0,40.0,20.0,,,,,Capped,50,Prasanna
+292,293,40,AL6,Sabbir,Rahaman,Bangladesh,BAN,1991-08-20,28,ALL-ROUNDER,RHB,RIGHT ARM Leg Break,11.0,66.0,44.0,,,,,Capped,50,Rahaman
+293,294,40,AL6,Raymon,Reifer,West Indies,CWI,1991-05-11,28,ALL-ROUNDER,LHB,LEFT ARM Fast Medium,1.0,2.0,,,,,,Capped,50,Reifer
+294,295,40,AL6,Mohammad,Saifuddin,Bangladesh,BAN,1996-11-01,23,ALL-ROUNDER,LHB,RIGHT ARM Medium Fast,,20.0,13.0,,,,,Capped,50,Saifuddin
+295,296,41,UBA6,Max,Bryant,Australia,CA,1999-03-10,21,BATSMAN,RHB,RIGHT ARM Medium Fast,,,,,,,,Uncapped,20,Bryant
+296,297,41,UBA6,Rahul,Gahlaut,India,SSCB,1995-09-18,24,BATSMAN,LHB,RIGHT ARM Off Break,,,,,,,,Uncapped,20,Gahlaut
+297,298,41,UBA6,Salman,Khan,India,RCA,1998-12-26,21,BATSMAN,RHB,RIGHT ARM Leg Break,,,,,,,,Uncapped,20,Khan
+298,299,41,UBA6,Sharad,Lumba,India,PCA,1989-09-10,30,BATSMAN,RHB,RIGHT ARM Off Break,,,,0.0,MI,,,Uncapped,20,Lumba
+299,300,41,UBA6,Marco,Marais,South Africa,CSA,1993-10-17,26,BATSMAN,RHB,RIGHT ARM  Medium Fast,,,,,,,,Uncapped,20,Marais
+300,301,41,UBA6,George,Munsey,Scotland,CS,1993-02-21,27,BATSMAN,LHB,RIGHT ARM Leg Break,,,,,,,,Associate,20,Munsey
+301,302,41,UBA6,Nehal,Pajni,India,HCA,2000-11-26,19,BATSMAN,LHB,RIGHT ARM Off Break,,,,,,,,Uncapped,20,Pajni
+302,303,42,UAL6,Himanshu,Bisht,India,CAU,1996-11-17,23,ALL-ROUNDER,RHB,RIGHT ARM Leg Break,,,,,,,,Uncapped,20,Bisht
+303,304,42,UAL6,Rohit,Damodaran,India,CAP,1992-05-28,27,ALL-ROUNDER,RHB,RIGHT ARM Off Break,,,,,,,,Uncapped,20,Damodaran
+304,305,42,UAL6,Ayush,Jamwal,India,HPCA,1999-08-11,20,ALL-ROUNDER,RHB,LEFT ARM Slow Orthodox,,,,,,,,Uncapped,20,Jamwal
+305,306,42,UAL6,Anirudha,Joshi,India,KSCA,1987-11-07,32,ALL-ROUNDER,RHB,RIGHT ARM Off Break,,,,0.0,RCB,,,Uncapped,20,Joshi
+306,307,42,UAL6,Ripal,Patel,India,GUCA,1995-09-28,24,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,,,,,Uncapped,20,Patel
+307,308,42,UAL6,Abhimanyu,Rana,India,HPCA,1991-09-21,28,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,,,,,Uncapped,20,Rana
+308,309,42,UAL6,Kshitiz,Sharma,India,DDCA,1990-04-21,29,ALL-ROUNDER,RHB,RIGHT ARM Off Break,,,,0.0,CSK,,,Uncapped,20,Sharma
+309,310,42,UAL6,Nitin,Sharma,India,HPCA,1996-09-28,23,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,,,,,Uncapped,20,Sharma
+310,311,42,UAL6,Akshay,Solanki,India,DDCA,1996-02-28,24,ALL-ROUNDER,RHB,RIGHT ARM Off Break,,,,,,,,Uncapped,20,Solanki
+311,312,42,UAL6,Pranshu,Vijayran,India,DDCA,1995-11-18,24,ALL-ROUNDER,LHB,RIGHT ARM Fast,,,,,,,,Uncapped,20,Vijayran
+312,313,43,UAL7,Nikhil,Chaudhary,India,PCA,1996-05-04,23,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,,,,,Uncapped,20,Chaudhary
+313,314,43,UAL7,Rajat,Choudhary,India,RCA,1999-10-10,20,ALL-ROUNDER,RHB,RIGHT ARM Off Break,,,,,,,,Uncapped,20,Choudhary
+314,315,43,UAL7,Khizar,Dafedar,India,MCA,1997-10-10,22,ALL-ROUNDER,RHB,RIGHT ARM Leg Break,,,,,,,,Uncapped,20,Dafedar
+315,316,43,UAL7,Digvijay,Deshmukh,India,MACA,1998-04-12,21,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,,,,,Uncapped,20,Deshmukh
+316,317,43,UAL7,Dharmendrasinh,Jadeja,India,SCA,1990-08-04,29,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,,,,,Uncapped,20,Jadeja
+317,318,43,UAL7,Aman,Khan,India,MCA,1996-11-23,23,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,,,,,Uncapped,20,Khan
+318,319,43,UAL7,Prerak,Mankad,India,SCA,1994-04-23,25,ALL-ROUNDER,RHB,RIGHT ARM Medium Fast,,,,,,,,Uncapped,20,Mankad
+319,320,43,UAL7,Dhrumil,Matkar,India,MCA,1996-06-03,23,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,,,,,Uncapped,20,Matkar
+320,321,43,UAL7,Ramandeep,Singh,India,PCA,1997-04-13,22,ALL-ROUNDER,RHB,RIGHT ARM Medium,,,,,,,,Uncapped,20,Singh
+321,322,43,UAL7,Prince Balwant Rai,Singh,India,PCA,1999-05-05,20,ALL-ROUNDER,RHB,RIGHT ARM Leg Break,,,,,,,,Uncapped,20,Singh
+322,323,44,UAL8,M,Abhinav,India,TNCA,1995-02-26,25,ALL-ROUNDER,LHB,RIGHT ARM Leg Break,,,,,,,,Uncapped,20,Abhinav
+323,324,44,UAL8,Arjun,Azad,India,UTCA,2001-08-08,18,ALL-ROUNDER,RHB,RIGHT ARM Leg Break,,,,,,,,Uncapped,20,Azad
+324,325,44,UAL8,Nachiket,Bhute,India,VCA,1999-11-01,20,ALL-ROUNDER,RHB,RIGHT ARM Medium Fast,,,,,,,,Uncapped,20,Bhute
+325,326,44,UAL8,Corbin,Bosch,South Africa,CSA,1994-09-10,25,ALL-ROUNDER,RHB,RIGHT ARM Fast,,,,,,,,Uncapped,20,Bosch
+326,327,44,UAL8,James,Fuller,England,ECB,1990-01-24,30,ALL-ROUNDER,RHB,RIGH ARM Fast,,,,,,,,Uncapped,40,Fuller
+327,328,44,UAL8,Shaik,Ismail,India,ACA,2002-04-25,17,ALL-ROUNDER,RHB,RIGHT ARM Leg Break,,,,,,,,Uncapped,20,Ismail
+328,329,44,UAL8,Will,Jacks,England,ECB,1998-11-21,21,ALL-ROUNDER,RHB,RIGHT ARM Off Break,,,,,,,,Uncapped,30,Jacks
+329,330,44,UAL8,Jack,Prestwidge,Australia,CA,1996-02-28,24,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,,,,,Uncapped,20,Prestwidge
+330,331,44,UAL8,Yash,Rathod,India,VCA,2000-05-16,19,ALL-ROUNDER,LHB,RIGHT ARM Leg Break,,,,,,,,Uncapped,20,Rathod
+331,332,44,UAL8,Pratyush,Singh,India,TCA,1994-09-04,25,ALL-ROUNDER,RHB,RIGHT ARM Leg Break,,,,0.0,DD,,,Uncapped,20,Singh
